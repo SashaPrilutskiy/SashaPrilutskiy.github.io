@@ -1,0 +1,14 @@
+img{
+  max-width: 100%;
+  height: auto;
+}
+#p{
+  font-size: 30px;
+  margin-left: 10px;
+}
+.buttom{
+  background-color: #282C34;
+}
+a{
+  margin-left: 10px;
+}
